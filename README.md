@@ -15,7 +15,7 @@ Full-stack developer with 2+ years of experience building production web apps en
 
 **🚀 Featured projects**
 - [FinTracker](https://github.com/r671h/FinTracker) — multi-account finance tracker with CSV import & AI-powered chat analysis (Next.js, Express.js, MongoDB, Claude API)
-- [MyMessenger](https://github.com/r671h/MyMessanger) — real-time chat app with 1:1/group chat, media uploads, presence (Next.js, Socket.io, PostgreSQL, Prisma)
+- [Messenger](https://github.com/r671h/MyMessanger) — real-time chat app with 1:1/group chat, media uploads, presence (Next.js, Socket.io, PostgreSQL, Prisma)
 - [WeatherAiForecastAssistent](https://github.com/r671h/WeatherAiForecastAssistent) — turns live forecasts into activity-based recommendations (Next.js, TypeScript, Express.js, Claude API, Gemini API)
 
 **🛠️ Tech stack**
@@ -39,7 +39,7 @@ Full-Stack-Entwickler mit 2+ Jahren Erfahrung in der End-to-End-Entwicklung prod
 
 **🚀 Ausgewählte Projekte**
 - [FinTracker](https://github.com/r671h/FinTracker) — Multi-Konten-Finance-Tracker mit CSV-Import und KI-Finanzanalyse-Chat (Next.js, Express.js, MongoDB, Claude API)
-- [MyMessenger](https://github.com/r671h/MyMessanger) — Echtzeit-Chat-App mit 1:1-/Gruppenchat, Medien-Uploads, Präsenzanzeige (Next.js, Socket.io, PostgreSQL, Prisma)
+- [Messenger](https://github.com/r671h/MyMessanger) — Echtzeit-Chat-App mit 1:1-/Gruppenchat, Medien-Uploads, Präsenzanzeige (Next.js, Socket.io, PostgreSQL, Prisma)
 - [WeatherAiForecastAssistent](https://github.com/r671h/WeatherAiForecastAssistent) — übersetzt Live-Vorhersagen in aktivitätsbasierte Empfehlungen (Next.js, TypeScript, Express.js, Claude API, Gemini API)
 
 **🛠️ Tech-Stack**
