@@ -10,7 +10,7 @@
 Full-stack developer with 2+ years of experience building production web apps end-to-end — React/Next.js on the frontend, Node.js/Express APIs, MongoDB/PostgreSQL as the data layer, and AI features powered by the Claude and Gemini APIs. Grew a personal finance platform to 50+ beta users, maintained a 5-star freelance rating, and shipped a real-time messaging module for a 15-person agile team.
 
 **💼 Currently**
-- Mentor & Team Lead @ DT Akademie — leading a 20-person learning cohort
+- Mentor @ DT Akademie — leading a 20-person learning cohort
 - Building freelance projects (React landing pages, refactoring legacy codebases)
 
 **🚀 Featured projects**
@@ -34,7 +34,7 @@ English (C1) · German (C1) · Russian (native) · Ukrainian (native)
 Full-Stack-Entwickler mit 2+ Jahren Erfahrung in der End-to-End-Entwicklung produktiver Webanwendungen — React/Next.js im Frontend, Node.js/Express-APIs, MongoDB/PostgreSQL als Datenschicht sowie KI-Features auf Basis der Claude- und Gemini-API. Brachte eine Finance-Plattform auf 50+ Beta-Nutzer, hielt durchgängig eine 5-Sterne-Freelance-Bewertung und lieferte ein Echtzeit-Messaging-Modul für ein 15-köpfiges agiles Team.
 
 **💼 Aktuell**
-- Mentor & Team Lead bei DT Akademie — leite eine Lerngruppe von 20 Personen
+- Mentor bei DT Akademie — leite eine Lerngruppe von 20 Personen
 - Freiberufliche Entwicklungsprojekte (React-Landingpages, Refactoring von Legacy-Code)
 
 **🚀 Ausgewählte Projekte**
